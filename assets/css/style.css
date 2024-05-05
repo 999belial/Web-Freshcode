@@ -1,0 +1,171 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+body {
+    text-align: center;
+}
+
+
+header {
+    background-image: url(/assets/img/bg.jpg);
+    border-image: fill 0 linear-gradient(#0007, #000);
+    background-position: center;
+    background-size: cover;
+    height: 450px;
+    color: rgb(223, 224, 224);
+    padding: 150px;
+
+}
+
+.head_p {
+    padding: 17px;
+    font-size: 25px;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.linkRead {
+    padding: 15px;
+    border: 1px rgb(87, 87, 87) solid;
+    background-color: rgb(33, 33, 33);
+    display: inline-block;
+    margin: 25px;
+    font-size: 20px;
+    border-radius: 7%;   
+}
+
+.contentMain {
+    background-color: rgb(220, 219, 219);
+    height: 200px;
+    color: rgb(54, 54, 54);
+}
+    
+h2{
+    padding: 20px;
+}
+
+.contentMain_p {
+    width: 300px;
+    display: inline-block;
+    
+}
+
+.contentMain_p1 {
+    width: 200px;
+    height: 300px;
+    display: inline-block;
+    vertical-align: top;
+    
+}
+
+.bg {
+    background-color: rgb(51, 51, 51);
+    height: 560px;
+}
+
+.web_develop {
+    display: inline-block;
+    width: 272px;
+    height: 500px;
+    margin: 25px;
+    background-color: aliceblue;
+    color: rgb(54, 54, 54);
+}
+
+.mobile_app {
+    display: inline-block;
+    width: 272px;
+    height: 500px;
+    margin: 25px;
+    background-color: aliceblue;
+    color: rgb(54, 54, 54);
+}
+
+.tech_mark {
+    display: inline-block;
+    width: 272px;
+    height: 500px;
+    margin: 25px;
+    background-color: aliceblue;
+    color: rgb(54, 54, 54);
+}
+
+.content-box {
+    background-color: rgb(220, 219, 219);
+    height: 180px;
+    padding: 25px;
+    color: rgb(54, 54, 54);
+}
+
+.footer {
+    font-size: 0;
+}
+
+.footer_contact {
+    display: inline-block;
+    width: 50%;
+    height: 300px;
+    background-color: rgb(0, 143, 143);
+    color: rgb(234, 234, 234);
+    font-size: 18px;
+    padding: 30px;
+}
+
+.footer_info {
+    display: inline-block;
+    width: 50%;
+    height: 300px;
+    color: rgb(234, 234, 234);
+    background-color:rgb(54, 54, 54);
+    font-size: 18px;
+    vertical-align: top;
+    padding: 30px;    
+}
+
+.contact {
+    padding: 10px;
+}
+
+.info {
+    padding: 10px;
+}
+
+.footer_end
+{
+    height: 60px;
+    font-size: 0;
+}
+
+.footer_freshcode {
+    display: inline-block;
+    width: 50%;
+    height: 50px;
+    background-color: rgb(0, 0, 0);
+    color: rgb(234, 234, 234);
+    font-size: 18px;
+    padding: 10px;
+    display: inline-block;
+}
+
+.footer_link {
+    display: inline-block;
+    width: 50%;
+    height: 50px;
+    color: rgb(234, 234, 234);
+    background-color:rgb(0, 0, 0);
+    font-size: 15px;
+    vertical-align: top;
+    padding: 3px;
+    display: inline-block;
+}
+
+.linkFreshcode {
+    color: aqua;
+}
